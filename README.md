@@ -6,7 +6,7 @@
 
 A third-person camera provides a clear view of the environment, allowing Props to blend seamlessly into the world and Hunters to track their targets efficiently. The game features multiple rounds, score tracking, and environmental interactions for immersive gameplay.
 
----
+
 
 ## Core Gameplay Features
 
@@ -20,7 +20,7 @@ A third-person camera provides a clear view of the environment, allowing Props t
 - Smooth movement animations for both roles, including idle, walking, and ability activation  
 - All player actions update in real time, including collision responses and ability cooldowns  
 
----
+
 
 ### Platforms & Environment
 
@@ -32,7 +32,7 @@ A third-person camera provides a clear view of the environment, allowing Props t
 - Environmental hazards like moving walls and rotating platforms increase challenge  
 - Visual cues such as floor color changes and object highlights help player orientation  
 
----
+
 
 ### Abilities & Interactions
 
@@ -45,7 +45,7 @@ A third-person camera provides a clear view of the environment, allowing Props t
   - Props earn points by surviving rounds  
   - Hunters earn points by tagging Props  
 
----
+
 
 ## Camera System
 
@@ -56,7 +56,7 @@ A third-person camera provides a clear view of the environment, allowing Props t
 - Enables Props to align naturally with objects  
 - Allows Hunters to track movement efficiently  
 
----
+
 
 ## Game Mechanics
 
@@ -68,7 +68,7 @@ A third-person camera provides a clear view of the environment, allowing Props t
 - Physics-based gameplay includes gravity and collision detection  
 - Real-time game logic updates movement, abilities, and scoring  
 
----
+
 
 ## Visual & Technical Details
 
